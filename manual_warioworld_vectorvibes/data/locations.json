@@ -133,7 +133,7 @@
       "Boss",
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": "|Red Diamond - GF:3|"
   },
   {
     "name": "GF - GS Near Waterfall",
@@ -416,7 +416,7 @@
       "Boss",
       "Greenhorn Ruins"
     ],
-    "requires": []
+    "requires": "|Red Diamond - GR:3|"
   },
   {
     "name": "GR - GS First Steel Trapdoor",
@@ -582,6 +582,1762 @@
     "category": [
       "Battle Ring",
       "Greenhorn Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Horror Manor",
+    "name": "HM - Spriteling At the Start",
+    "category": [
+      "Spritelings",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Spriteling In the Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Spritelings",
+      "Horror Manor",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Spriteling On the Balcony",
+    "region": "Horror Manor",
+    "category": [
+      "Spritelings",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Spriteling After Brass Door Spirit",
+    "region": "Horror Manor",
+    "category": [
+      "Spritelings",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Spriteling Between the Crushers",
+    "region": "Horror Manor",
+    "category": [
+      "Spritelings",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Pink Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Red Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Yellow Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Chartreuse Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Green Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Light Blue Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Dark Blue Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Purple Treasure",
+    "region": "Horror Manor",
+    "category": [
+      "Treasures",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - Brawl Doll",
+    "region": "Horror Manor",
+    "category": [
+      "Boss",
+      "Horror Manor"
+    ],
+    "requires": "|Red Diamond - HM:4|"
+  },
+  {
+    "name": "HM - GS Block Maze Trapdoor",
+    "region": "Greenhorn Ruins",
+    "category": [
+      "Gold Statue",
+      "Horror Manor",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - GS Swirly Slab Graveyard",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor"
+    ],
+    "requires": "|Wild Swing-Ding|"
+  },
+  {
+    "name": "HM - GS Swirly Slab Pillar",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor"
+    ],
+    "requires": "|Wild Swing-Ding|"
+  },
+  {
+    "name": "HM - GS Rotating Blocks Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - GS Left of the Giant Hole",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - GS Precision Platforming Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Horror Manor",
+    "name": "HM - GS Rotation Wave Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - GS Platforming but Smaller Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Gold Statue",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - RD Block Maze Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - RD Lever Elevator Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - RD Block Orbit Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - RD Rotating Blocks Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - RD Electrical Fences Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - RD Precision Platforming Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "HM - RD Rotation Wave Trapdoor",
+    "region": "Horror Manor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "HM - RD Platforming but Smaller Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Horror Manor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Horror Manor"
+  },
+  {
+    "name": "HM - Battle Ring",
+    "region": "Horror Manor",
+    "category": [
+      "Battle Ring",
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Wonky Circus",
+    "name": "WC - Spriteling on the Left Pedestal",
+    "category": [
+      "Spritelings",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Spriteling on the Right Pedestal",
+    "region": "Wonky Circus",
+    "category": [
+      "Spritelings",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Spriteling Near Glue Globes",
+    "region": "Wonky Circus",
+    "category": [
+      "Spritelings",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Spriteling Near Battle Ring",
+    "region": "Wonky Circus",
+    "category": [
+      "Spritelings",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Spriteling Near End of Stage",
+    "region": "Wonky Circus",
+    "category": [
+      "Spritelings",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Pink Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Red Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Yellow Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Chartreuse Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Green Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Light Blue Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Dark Blue Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Purple Treasure",
+    "region": "Wonky Circus",
+    "category": [
+      "Treasures",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - Sandworm",
+    "region": "Wonky Circus",
+    "category": [
+      "Boss",
+      "Wonky Circus"
+    ],
+    "requires": "|Red Diamond - WC:4|"
+  },
+  {
+    "name": "WC - GS First Steel Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - GS Above the Glue Globes",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - GS Across the Glue Globes",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - GS Arrow Block Puzzle Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - GS Rotating Gears Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - GS Watch for Moving Blocks Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Wonky Circus",
+    "name": "WC - GS Under Wario's Head Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - GS Block Wave Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - RD First Steel Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - RD Ring of Spikes Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - RD Climb the Tower Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - RD Arrow Block Puzzle Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - RD Rotating Gears Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - RD Watch for Moving Blocks Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "WC - RD Under Wario's Head Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "WC - RD Block Wave Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Wonky Circus"
+  },
+  {
+    "name": "WC - Battle Ring",
+    "region": "Wonky Circus",
+    "category": [
+      "Battle Ring",
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Shivering Mountains",
+    "name": "SM - Spriteling on the Left Pedestal",
+    "category": [
+      "Spritelings",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Spriteling on the Right Pedestal",
+    "region": "Shivering Mountains",
+    "category": [
+      "Spritelings",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Spriteling Near Glue Globes",
+    "region": "Shivering Mountains",
+    "category": [
+      "Spritelings",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Spriteling Near Battle Ring",
+    "region": "Shivering Mountains",
+    "category": [
+      "Spritelings",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Spriteling Near End of Stage",
+    "region": "Shivering Mountains",
+    "category": [
+      "Spritelings",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Pink Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Red Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Yellow Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Chartreuse Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Green Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Light Blue Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Dark Blue Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Purple Treasure",
+    "region": "Shivering Mountains",
+    "category": [
+      "Treasures",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - Sandworm",
+    "region": "Shivering Mountains",
+    "category": [
+      "Boss",
+      "Shivering Mountains"
+    ],
+    "requires": "|Red Diamond - SM:5|"
+  },
+  {
+    "name": "SM - GS First Steel Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - GS Above the Glue Globes",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - GS Across the Glue Globes",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - GS Arrow Block Puzzle Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - GS Rotating Gears Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - GS Watch for Moving Blocks Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Shivering Mountains",
+    "name": "SM - GS Under Wario's Head Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - GS Block Wave Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - RD First Steel Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - RD Ring of Spikes Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - RD Climb the Tower Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - RD Arrow Block Puzzle Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - RD Rotating Gears Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - RD Watch for Moving Blocks Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "SM - RD Under Wario's Head Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SM - RD Block Wave Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Shivering Mountains",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Shivering Mountains"
+  },
+  {
+    "name": "SM - Battle Ring",
+    "region": "Shivering Mountains",
+    "category": [
+      "Battle Ring",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Beanstalk Way",
+    "name": "BW - Spriteling on the Left Pedestal",
+    "category": [
+      "Spritelings",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Spriteling on the Right Pedestal",
+    "region": "Beanstalk Way",
+    "category": [
+      "Spritelings",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Spriteling Near Glue Globes",
+    "region": "Beanstalk Way",
+    "category": [
+      "Spritelings",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Spriteling Near Battle Ring",
+    "region": "Beanstalk Way",
+    "category": [
+      "Spritelings",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Spriteling Near End of Stage",
+    "region": "Beanstalk Way",
+    "category": [
+      "Spritelings",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Pink Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Red Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Yellow Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Chartreuse Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Green Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Light Blue Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Dark Blue Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Purple Treasure",
+    "region": "Beanstalk Way",
+    "category": [
+      "Treasures",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Sandworm",
+    "region": "Beanstalk Way",
+    "category": [
+      "Boss",
+      "Beanstalk Way"
+    ],
+    "requires": "|Red Diamond - BW:5|"
+  },
+  {
+    "name": "BW - GS First Steel Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - GS Above the Glue Globes",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - GS Across the Glue Globes",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - GS Arrow Block Puzzle Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - GS Rotating Gears Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - GS Watch for Moving Blocks Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Beanstalk Way",
+    "name": "BW - GS Under Wario's Head Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - GS Block Wave Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - RD First Steel Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - RD Ring of Spikes Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - RD Climb the Tower Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - RD Arrow Block Puzzle Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - RD Rotating Gears Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - RD Watch for Moving Blocks Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "BW - RD Under Wario's Head Trapdoor",
+    "region": "Beanstalk Way",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - RD Block Wave Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Beanstalk Way",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Beanstalk Way"
+  },
+  {
+    "name": "BW - Battle Ring",
+    "region": "Beanstalk Way",
+    "category": [
+      "Battle Ring",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Mirror Mansion",
+    "name": "MM - Spriteling on the Left Pedestal",
+    "category": [
+      "Spritelings",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Spriteling on the Right Pedestal",
+    "region": "Mirror Mansion",
+    "category": [
+      "Spritelings",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Spriteling Near Glue Globes",
+    "region": "Mirror Mansion",
+    "category": [
+      "Spritelings",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Spriteling Near Battle Ring",
+    "region": "Mirror Mansion",
+    "category": [
+      "Spritelings",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Spriteling Near End of Stage",
+    "region": "Mirror Mansion",
+    "category": [
+      "Spritelings",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Pink Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Red Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Yellow Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Chartreuse Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Green Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Light Blue Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Dark Blue Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Purple Treasure",
+    "region": "Mirror Mansion",
+    "category": [
+      "Treasures",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - Sandworm",
+    "region": "Mirror Mansion",
+    "category": [
+      "Boss",
+      "Mirror Mansion"
+    ],
+    "requires": "|Red Diamond - MM:6|"
+  },
+  {
+    "name": "MM - GS First Steel Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - GS Above the Glue Globes",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - GS Across the Glue Globes",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - GS Arrow Block Puzzle Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - GS Rotating Gears Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - GS Watch for Moving Blocks Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Mirror Mansion",
+    "name": "MM - GS Under Wario's Head Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - GS Block Wave Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Gold Statue",
+      "Mirror Mansion"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - RD First Steel Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - RD Ring of Spikes Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - RD Climb the Tower Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - RD Arrow Block Puzzle Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - RD Rotating Gears Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - RD Watch for Moving Blocks Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "MM - RD Under Wario's Head Trapdoor",
+    "region": "Mirror Mansion",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MM - RD Block Wave Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Mirror Mansion",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Mirror Mansion"
+  },
+  {
+    "name": "MM - Battle Ring",
+    "region": "Mirror Mansion",
+    "category": [
+      "Battle Ring",
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Pecan Sands",
+    "name": "PS - Spriteling on the Left Pedestal",
+    "category": [
+      "Spritelings",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Spriteling on the Right Pedestal",
+    "region": "Pecan Sands",
+    "category": [
+      "Spritelings",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Spriteling Near Glue Globes",
+    "region": "Pecan Sands",
+    "category": [
+      "Spritelings",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Spriteling Near Battle Ring",
+    "region": "Pecan Sands",
+    "category": [
+      "Spritelings",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Spriteling Near End of Stage",
+    "region": "Pecan Sands",
+    "category": [
+      "Spritelings",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Pink Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Red Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Yellow Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Chartreuse Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Green Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Light Blue Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Dark Blue Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Purple Treasure",
+    "region": "Pecan Sands",
+    "category": [
+      "Treasures",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - Sandworm",
+    "region": "Pecan Sands",
+    "category": [
+      "Boss",
+      "Pecan Sands"
+    ],
+    "requires": "|Red Diamond - PS:6|"
+  },
+  {
+    "name": "PS - GS First Steel Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - GS Above the Glue Globes",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - GS Across the Glue Globes",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - GS Arrow Block Puzzle Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - GS Rotating Gears Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - GS Watch for Moving Blocks Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Pecan Sands",
+    "name": "PS - GS Under Wario's Head Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - GS Block Wave Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Gold Statue",
+      "Pecan Sands"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - RD First Steel Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - RD Ring of Spikes Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - RD Climb the Tower Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - RD Arrow Block Puzzle Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - RD Rotating Gears Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - RD Watch for Moving Blocks Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "name": "PS - RD Under Wario's Head Trapdoor",
+    "region": "Pecan Sands",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "PS - RD Block Wave Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Pecan Sands",
+      "Trapdoor"
+    ],
+    "requires": "|Punch| AND |Piledriver|",
+    "region": "Pecan Sands"
+  },
+  {
+    "name": "PS - Battle Ring",
+    "region": "Pecan Sands",
+    "category": [
+      "Battle Ring",
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  {
+    "region": "DinoMighty's Showdown",
+    "name": "DinoMighty Defeated",
+    "category": [
+      "Area Boss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Dual Dragon's Showdown",
+    "name": "Dual Dragon Defeated",
+    "category": [
+      "Area Boss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Red-Brief J's Showdown",
+    "name": "Red-Brief J Defeated",
+    "category": [
+      "Area Boss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Captain Skull's Showdown",
+    "name": "Captain Skull Defeated",
+    "category": [
+      "Area Boss"
     ],
     "requires": []
   }
