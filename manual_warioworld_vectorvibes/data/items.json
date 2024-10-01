@@ -758,5 +758,37 @@
       "Big Treasure Chest Key"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DinoMighty Key",
+    "category": [
+      "Boss Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Dragon Key",
+    "category": [
+      "Boss Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red-Brief J Key",
+    "category": [
+      "Boss Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Skull",
+    "category": [
+      "Boss Access"
+    ],
+    "progression": true
   }
 ]

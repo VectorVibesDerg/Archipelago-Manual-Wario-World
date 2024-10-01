@@ -4,49 +4,49 @@
     "connects_to": [
       "Greenhorn Ruins"
     ],
-    "requires": "|Red Diamond - GF:3|"
+    "requires": []
   },
   "Greenhorn Ruins": {
     "connects_to": [
       "DinoMighty's Showdown"
     ],
-    "requires": "|Red Diamond - GR:3|"
+    "requires": "|Red Diamond - GF:3|"
   },
   "Horror Manor": {
     "connects_to": [
       "Wonky Circus"
     ],
-    "requires": "|Red Diamond - HM:4|"
+    "requires": "|DinoMighty Key|"
   },
   "Wonky Circus": {
     "connects_to": [
       "Dual Dragon's Showdown"
     ],
-    "requires": "|Red Diamond - WC:4|"
+    "requires": "|Red Diamond - HM:4|"
   },
   "Shivering Mountains": {
     "connects_to": [
       "Beanstalk Way"
     ],
-    "requires": "|Red Diamond - SM:5|"
+    "requires": "|Dual Dragon Key|"
   },
   "Beanstalk Way": {
     "connects_to": [
       "Red-Brief J's Showdown"
     ],
-    "requires": "|Red Diamond - BW:5|"
+    "requires": "|Red Diamond - SM:5|"
   },
   "Mirror Mansion": {
     "connects_to": [
       "Pecan Sands"
     ],
-    "requires": "|Red Diamond - MM:6|"
+    "requires": "|Red-Brief J Key|"
   },
   "Pecan Sands": {
     "connects_to": [
       "Red-Brief J's Showdown"
     ],
-    "requires": "|Red Diamond - PS:6|"
+    "requires": "|Red Diamond - MM:6|"
   },
   "Treasure Square Courtyard": {
     "connects_to": [
@@ -59,25 +59,25 @@
     "connects_to": [
       "Horror Manor"
     ],
-    "requires": []
+    "requires": "|Red Diamond - GR:3| AND |DinoMighty Key|"
   },
   "Dual Dragon's Showdown": {
     "connects_to": [
       "Shivering Mountains"
     ],
-    "requires": []
+    "requires": "|Red Diamond - WC:4| AND |Dual Dragon Key|"
   },
   "Red-Brief J's Showdown": {
     "connects_to": [
       "Mirror Mansion"
     ],
-    "requires": []
+    "requires": "|Red Diamond - BW:5| AND |Red-Brief J Key|"
   },
   "Captain Skull's Showdown": {
     "connects_to": [
       "Big Treasure Chest"
     ],
-    "requires": []
+    "requires": "|Red Diamond - PS:6| AND |Captain Skull|"
   },
   "Big Treasure Chest": {
     "connects_to": [],

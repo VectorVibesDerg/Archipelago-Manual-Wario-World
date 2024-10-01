@@ -16,10 +16,7 @@
       "Spritelings",
       "Greenhorn Forest"
     ],
-    "requires": [],
-    "place_item": [
-      "Punch"
-    ]
+    "requires": []
   },
   {
     "name": "GF - Spriteling Near Garlic Dispenser",
