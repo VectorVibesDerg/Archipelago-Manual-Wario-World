@@ -1,0 +1,1 @@
+# Archipelago-Manual-Wario-World
