@@ -1,0 +1,762 @@
+[
+  {
+    "count": "1",
+    "name": "Unithorn's Lair",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Punch",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dash Attack",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Suction",
+    "category": [
+      "Moves"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ground Pound",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Corkscrew Conk",
+    "category": [
+      "Moves"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mega Toss",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Piledriver",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Swing-Ding",
+    "category": [
+      "Moves"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Garlic Dispensers",
+    "category": [
+      "Helpful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - GF",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - GR",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - HM",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - WC",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - SM",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - BW",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - MM",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Red Diamond - PS",
+    "category": [
+      "Red Diamonds"
+    ],
+    "progression": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - GF",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - GR",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - HM",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - WC",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - SM",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - BW",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - MM",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Statue Piece - PS",
+    "category": [
+      "Gold Statue"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Ruby",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Opal",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Amethyst",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Amber",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Sapphire",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Topaz",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Emerald",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "1",
+    "name": "Diamond",
+    "category": [
+      "Treasures - GF"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Porcelain Urn",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fine China",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ceramic Vase",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Teapot",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Vase",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Precious Pot",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Figurine",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "NES",
+    "category": [
+      "Treasures - GR"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Candlestick",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Candlestick",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Painting",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Castle Painting",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Ball",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Knight's Helmet",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gladiator's Helmet",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ornate Bag",
+    "category": [
+      "Treasures - HM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bugle",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tambourine",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Triangle",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clarinet",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Trombone",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sax",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Drum",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nintendo 64",
+    "category": [
+      "Treasures - WC"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nice Glass",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Chalice",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nice Cup",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ornate Decanter",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Decanter",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nice Saucer",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Bowl",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jade Box",
+    "category": [
+      "Treasures - SM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nice Goblet",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Violin",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Earring",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jeweled Sword",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Tiara",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nice Scepter",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "King's Crown",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Game Boy Advance",
+    "category": [
+      "Treasures - BW"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Big Mirror",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Antique Clock",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Mirror",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stained Glass",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bronze Mirror",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Clock",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Pocket Watch",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crazy Glasses",
+    "category": [
+      "Treasures - MM"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Ring",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Necklace",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Relief",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Small Pyramid",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ancient Bracelet",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Anubis Statue",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Monarch Mask",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nintendo GameCube",
+    "category": [
+      "Treasures - PS"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "40",
+    "name": "Spritelings",
+    "category": [
+      "Spritelings"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Top Left Big Treasure Chest Key",
+    "category": [
+      "Big Treasure Chest Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Top Right Big Treasure Chest Key",
+    "category": [
+      "Big Treasure Chest Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bottom Left Big Treasure Chest Key",
+    "category": [
+      "Big Treasure Chest Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bottom Right Big Treasure Chest Key",
+    "category": [
+      "Big Treasure Chest Key"
+    ],
+    "progression": true
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "Greenhorn Forest": {
+    "starting": true,
+    "connects_to": [
+      "Greenhorn Ruins"
+    ],
+    "requires": []
+  },
+  "Greenhorn Ruins": {
+    "connects_to": [
+      "DinoMighty's Showdown"
+    ],
+    "requires": []
+  },
+  "Horror Manor": {
+    "connects_to": [
+      "Wonky Circus"
+    ],
+    "requires": []
+  },
+  "Wonky Circus": {
+    "connects_to": [
+      "Dual Dragon's Showdown"
+    ],
+    "requires": []
+  },
+  "Shivering Mountains": {
+    "connects_to": [
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  "Beanstalk Way": {
+    "connects_to": [
+      "Red-Brief J's Showdown"
+    ],
+    "requires": []
+  },
+  "Mirror Mansion": {
+    "connects_to": [
+      "Pecan Sands"
+    ],
+    "requires": []
+  },
+  "Pecan Sands": {
+    "connects_to": [
+      "Red-Brief J's Showdown"
+    ],
+    "requires": []
+  },
+  "Treasure Square Courtyard": {
+    "connects_to": [
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  "DinoMighty's Showdown": {
+    "connects_to": [
+      "Horror Manor"
+    ],
+    "requires": []
+  },
+  "Dual Dragon's Showdown": {
+    "connects_to": [
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  "Red-Brief J's Showdown": {
+    "connects_to": [
+      "Mirror Mansion"
+    ],
+    "requires": []
+  },
+  "Captain Skull's Showdown": {
+    "connects_to": [
+      "Big Treasure Chest"
+    ],
+    "requires": []
+  },
+  "Big Treasure Chest": {
+    "connects_to": [],
+    "requires": []
+  }
+}

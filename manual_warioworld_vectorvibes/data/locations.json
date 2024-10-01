@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Defeat Black Jewel",
+    "victory": true,
+    "region": "Big Treasure Chest",
+    "category": [
+      "Ending"
+    ],
+    "requires": "|Top Left Big Treasure Chest Key| AND |Top Right Big Treasure Chest Key| AND |Bottom Left Big Treasure Chest Key| AND |Bottom Right Big Treasure Chest Key| "
+  },
+  {
+    "victory": false,
+    "region": "Greenhorn Forest",
+    "name": "GF - Spriteling of Unskippable",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Near Garlic Dispenser",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Near Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Before the Bridges",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling After the Bridges",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Pink Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Red Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Yellow Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Chartreuse Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Green Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Light Blue Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Dark Blue Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Purple Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Greenfist",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Boss",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Near Waterfall",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS On Tree Stump",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Drop Block Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS C-Stick Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Tree Bridge",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Greenhorn Forest",
+    "name": "GF - GS Above the Pond",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Spike Platform Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Drop Block Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD C-Stick Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stone Block Pillars Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Glue Globe Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stair Lever Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD \"L\"ever Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Spike Platform Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "victory": false,
+    "region": "Greenhorn Forest",
+    "name": "GF - Spriteling of Unskippable",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Near Garlic Dispenser",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Near Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling Before the Bridges",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Spriteling After the Bridges",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Spritelings",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Pink Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Red Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Yellow Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Chartreuse Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Green Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Light Blue Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Dark Blue Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Purple Treasure",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Treasures",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - Greenfist",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Boss",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Near Waterfall",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS On Tree Stump",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Drop Block Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS C-Stick Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Tree Bridge",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Greenhorn Forest",
+    "name": "GF - GS Above the Pond",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - GS Spike Platform Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Gold Statue",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Drop Block Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD C-Stick Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stone Blocks Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stone Block Pillars Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Glue Globe Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Stair Lever Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD \"L\"ever Trapdoor",
+    "region": "Greenhorn Forest",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "GF - RD Spike Platform Trapdoor",
+    "category": [
+      "Red Diamond",
+      "Greenhorn Forest",
+      "Trapdoor"
+    ],
+    "requires": []
+  }
+]
