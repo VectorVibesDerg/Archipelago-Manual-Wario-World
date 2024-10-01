@@ -1,58 +1,59 @@
 {
   "Greenhorn Forest": {
-    "starting": true,
+    "starting": false,
     "connects_to": [
       "Greenhorn Ruins"
     ],
-    "requires": []
+    "requires": "|Red Diamond - GF:3|"
   },
   "Greenhorn Ruins": {
     "connects_to": [
       "DinoMighty's Showdown"
     ],
-    "requires": []
+    "requires": "|Red Diamond - GR:3|"
   },
   "Horror Manor": {
     "connects_to": [
       "Wonky Circus"
     ],
-    "requires": []
+    "requires": "|Red Diamond - HM:4|"
   },
   "Wonky Circus": {
     "connects_to": [
       "Dual Dragon's Showdown"
     ],
-    "requires": []
+    "requires": "|Red Diamond - WC:4|"
   },
   "Shivering Mountains": {
     "connects_to": [
       "Beanstalk Way"
     ],
-    "requires": []
+    "requires": "|Red Diamond - SM:5|"
   },
   "Beanstalk Way": {
     "connects_to": [
       "Red-Brief J's Showdown"
     ],
-    "requires": []
+    "requires": "|Red Diamond - BW:5|"
   },
   "Mirror Mansion": {
     "connects_to": [
       "Pecan Sands"
     ],
-    "requires": []
+    "requires": "|Red Diamond - MM:6|"
   },
   "Pecan Sands": {
     "connects_to": [
       "Red-Brief J's Showdown"
     ],
-    "requires": []
+    "requires": "|Red Diamond - PS:6|"
   },
   "Treasure Square Courtyard": {
     "connects_to": [
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": [],
+    "starting": true
   },
   "DinoMighty's Showdown": {
     "connects_to": [
@@ -80,6 +81,6 @@
   },
   "Big Treasure Chest": {
     "connects_to": [],
-    "requires": "|Top Left Big Treasure Chest Key| AND |Top Right Big Treasure Chest Key| AND |Bottom Left Big Treasure Chest Key| AND |Bottom Right Big Treasure Chest Key| "
+    "requires": []
   }
 }
