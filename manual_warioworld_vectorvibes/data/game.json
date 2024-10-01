@@ -2,6 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "WarioWorld",
   "creator": "VectorVibes",
-  "filler_item_name": "Merp",
+  "filler_item_name": "Garlic",
   "starting_items": []
 }
