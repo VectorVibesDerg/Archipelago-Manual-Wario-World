@@ -45,7 +45,7 @@
     "category": [
       "Moves"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -785,7 +785,7 @@
   },
   {
     "count": 1,
-    "name": "Captain Skull",
+    "name": "Captain Skull Key",
     "category": [
       "Boss Access"
     ],

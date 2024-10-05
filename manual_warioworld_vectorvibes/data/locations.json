@@ -2,7 +2,7 @@
   {
     "name": "Defeat Black Jewel",
     "victory": true,
-    "region": "Treasure Square Courtyard",
+    "region": "Big Treasure Chest",
     "category": [
       "Ending"
     ],
@@ -142,7 +142,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GF - GS On Tree Stump",
@@ -151,7 +151,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GF - GS Drop Block Trapdoor",
@@ -190,7 +190,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
     "region": "Greenhorn Forest",
@@ -199,7 +199,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": []
+    "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GF - GS Spike Platform Trapdoor",
@@ -882,7 +882,7 @@
   {
     "victory": false,
     "region": "Wonky Circus",
-    "name": "WC - Spriteling on the Left Pedestal",
+    "name": "WC - Spriteling on the Circus Platform",
     "category": [
       "Spritelings",
       "Wonky Circus"
@@ -890,7 +890,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "WC - Spriteling on the Right Pedestal",
+    "name": "WC - Spriteling Next to Clown Cannon",
     "region": "Wonky Circus",
     "category": [
       "Spritelings",
@@ -899,16 +899,16 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "WC - Spriteling Near Glue Globes",
+    "name": "WC - Spriteling Fling the Wario Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Spritelings",
       "Wonky Circus"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "(|Punch| OR |Ground Pound|) AND |Piledriver|"
   },
   {
-    "name": "WC - Spriteling Near Battle Ring",
+    "name": "WC - Spriteling Near Swirly Slabs",
     "region": "Wonky Circus",
     "category": [
       "Spritelings",
@@ -1007,7 +1007,7 @@
     "requires": "(|Red Diamond - HM:4|) AND ((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
-    "name": "WC - GS First Steel Trapdoor",
+    "name": "WC - GS on the Circus Platform",
     "region": "Wonky Circus",
     "category": [
       "Gold Statue",
@@ -1016,7 +1016,25 @@
     "requires": []
   },
   {
-    "name": "WC - GS Above the Glue Globes",
+    "name": "WC - GS Spiked Ladders Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Ground Pound| OR |Piledriver|"
+  },
+  {
+    "name": "WC - GS Y-Axis Rotation Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Gold Statue",
+      "Wonky Circus"
+    ],
+    "requires": "|Piledriver|"
+  },
+  {
+    "name": "WC - GS Flung by Banner",
     "region": "Wonky Circus",
     "category": [
       "Gold Statue",
@@ -1025,34 +1043,16 @@
     "requires": []
   },
   {
-    "name": "WC - GS Across the Glue Globes",
+    "name": "WC - GS Quick Marshmallow Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Gold Statue",
       "Wonky Circus"
     ],
-    "requires": []
+    "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "WC - GS Arrow Block Puzzle Trapdoor",
-    "region": "Wonky Circus",
-    "category": [
-      "Gold Statue",
-      "Wonky Circus"
-    ],
-    "requires": []
-  },
-  {
-    "name": "WC - GS Rotating Gears Trapdoor",
-    "region": "Wonky Circus",
-    "category": [
-      "Gold Statue",
-      "Wonky Circus"
-    ],
-    "requires": []
-  },
-  {
-    "name": "WC - GS Watch for Moving Blocks Trapdoor",
+    "name": "WC - GS after Battle Ring Near Cannon",
     "region": "Wonky Circus",
     "category": [
       "Gold Statue",
@@ -1062,7 +1062,7 @@
   },
   {
     "region": "Wonky Circus",
-    "name": "WC - GS Under Wario's Head Trapdoor",
+    "name": "WC - GS Near Garlic Dispenser",
     "category": [
       "Gold Statue",
       "Wonky Circus"
@@ -1070,16 +1070,16 @@
     "requires": []
   },
   {
-    "name": "WC - GS Block Wave Trapdoor",
+    "name": "WC - GS Marshmallow Gauntlet Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Gold Statue",
       "Wonky Circus"
     ],
-    "requires": []
+    "requires": "|Piledriver|"
   },
   {
-    "name": "WC - RD First Steel Trapdoor",
+    "name": "WC - RD Spiked Ladders Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
@@ -1089,7 +1089,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "WC - RD Ring of Spikes Trapdoor",
+    "name": "WC - RD Glue Globe Vaulting Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
@@ -1099,7 +1099,17 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "WC - RD Climb the Tower Trapdoor",
+    "name": "WC - RD Y-Axis Rotation Trapdoor",
+    "region": "Wonky Circus",
+    "category": [
+      "Red Diamond",
+      "Wonky Circus",
+      "Trapdoor"
+    ],
+    "requires": "|Piledriver|"
+  },
+  {
+    "name": "WC - RD Quick Marshmallow Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
@@ -1109,53 +1119,43 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "WC - RD Arrow Block Puzzle Trapdoor",
+    "name": "WC - RD Glue Globes can Spin Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Piledriver|"
   },
   {
-    "name": "WC - RD Rotating Gears Trapdoor",
+    "name": "WC - RD Fling the Wario Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Piledriver|"
   },
   {
-    "name": "WC - RD Watch for Moving Blocks Trapdoor",
+    "name": "WC - RD CorkScrew Conk Trapdoor",
     "region": "Wonky Circus",
     "category": [
       "Red Diamond",
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| OR |Piledriver| AND |Corkscrew Conk|"
   },
   {
-    "name": "WC - RD Under Wario's Head Trapdoor",
-    "region": "Wonky Circus",
+    "name": "WC - RD Marshmallow Gauntlet Trapdoor",
     "category": [
       "Red Diamond",
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
-  },
-  {
-    "name": "WC - RD Block Wave Trapdoor",
-    "category": [
-      "Red Diamond",
-      "Wonky Circus",
-      "Trapdoor"
-    ],
-    "requires": "|Ground Pound| OR |Piledriver|",
+    "requires": "|Piledriver|",
     "region": "Wonky Circus"
   },
   {
@@ -1170,7 +1170,7 @@
   {
     "victory": false,
     "region": "Shivering Mountains",
-    "name": "SM - Spriteling on the Left Pedestal",
+    "name": "SM - Spriteling on Igloo",
     "category": [
       "Spritelings",
       "Shivering Mountains"
@@ -1178,7 +1178,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "SM - Spriteling on the Right Pedestal",
+    "name": "SM - Spriteling Marshmallow Edging Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Spritelings",
@@ -1187,31 +1187,31 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "SM - Spriteling Near Glue Globes",
+    "name": "SM - Spriteling Large Rotating Platforms",
     "region": "Shivering Mountains",
     "category": [
       "Spritelings",
       "Shivering Mountains"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "(|Punch| OR |Ground Pound|) AND |Corkscrew Conk| AND |Piledriver|"
   },
   {
-    "name": "SM - Spriteling Near Battle Ring",
+    "name": "SM - Spriteling Using Icicle Mites",
     "region": "Shivering Mountains",
     "category": [
       "Spritelings",
       "Shivering Mountains"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "(|Punch| OR |Ground Pound|) AND |Piledriver|"
   },
   {
-    "name": "SM - Spriteling Near End of Stage",
+    "name": "SM - Spriteling Sphere of Spikes Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Spritelings",
       "Shivering Mountains"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "(|Punch| OR |Ground Pound|) AND |Piledriver|"
   },
   {
     "name": "SM - Pink Treasure",
@@ -1295,7 +1295,7 @@
     "requires": "(|Red Diamond - SM:5|) AND ((|Punch| OR |Ground Pound|) AND |Mega Toss| AND (|Piledriver| OR |Wild Swing-Ding|))"
   },
   {
-    "name": "SM - GS First Steel Trapdoor",
+    "name": "SM - GS Top Left Platform on the Tree",
     "region": "Shivering Mountains",
     "category": [
       "Gold Statue",
@@ -1304,7 +1304,19 @@
     "requires": []
   },
   {
-    "name": "SM - GS Above the Glue Globes",
+    "name": "SM - GS On the Slide",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Gold Statue"
+    ]
+  },
+  {
+    "name": "SM - GS Very Top of the Far Left Tree",
     "region": "Shivering Mountains",
     "category": [
       "Gold Statue",
@@ -1313,16 +1325,7 @@
     "requires": []
   },
   {
-    "name": "SM - GS Across the Glue Globes",
-    "region": "Shivering Mountains",
-    "category": [
-      "Gold Statue",
-      "Shivering Mountains"
-    ],
-    "requires": []
-  },
-  {
-    "name": "SM - GS Arrow Block Puzzle Trapdoor",
+    "name": "SM - GS LOCATE IN GAME FOR NAME",
     "region": "Shivering Mountains",
     "category": [
       "Gold Statue",
@@ -1447,7 +1450,7 @@
     "region": "Shivering Mountains"
   },
   {
-    "name": "SM - Battle Ring",
+    "name": "SM - Battle Ring 1",
     "region": "Shivering Mountains",
     "category": [
       "Battle Ring",
@@ -2350,5 +2353,14 @@
       "Area Boss"
     ],
     "requires": "((|Punch| OR |Ground Pound|) AND |Mega Toss| AND (|Piledriver| OR |Wild Swing-Ding|)"
+  },
+  {
+    "name": "SM - Battle Ring 2",
+    "region": "Shivering Mountains",
+    "category": [
+      "Battle Ring",
+      "Shivering Mountains"
+    ],
+    "requires": []
   }
 ]
