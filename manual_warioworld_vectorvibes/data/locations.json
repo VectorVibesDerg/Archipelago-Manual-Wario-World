@@ -2,7 +2,7 @@
   {
     "name": "Defeat Black Jewel",
     "victory": true,
-    "region": "Big Treasure Chest",
+    "region": "Treasure Square Courtyard",
     "category": [
       "Ending"
     ],
@@ -34,7 +34,7 @@
       "Spritelings",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Spriteling Before the Bridges",
@@ -43,7 +43,7 @@
       "Spritelings",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Spriteling After the Bridges",
@@ -52,7 +52,7 @@
       "Spritelings",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Pink Treasure",
@@ -61,7 +61,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "((|Punch| OR |Ground Pound|) OR (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
     "name": "GF - Red Treasure",
@@ -70,7 +70,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "((|Punch| OR |Ground Pound|) OR (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
     "name": "GF - Yellow Treasure",
@@ -79,7 +79,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "((|Punch| OR |Ground Pound|) OR (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
     "name": "GF - Chartreuse Treasure",
@@ -88,7 +88,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Green Treasure",
@@ -97,7 +97,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Light Blue Treasure",
@@ -106,7 +106,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Dark Blue Treasure",
@@ -115,7 +115,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - Purple Treasure",
@@ -124,7 +124,7 @@
       "Treasures",
       "Greenhorn Forest"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Ground Pound| "
   },
   {
     "name": "GF - Greenfist",
@@ -133,7 +133,7 @@
       "Boss",
       "Greenhorn Forest"
     ],
-    "requires": "(|Red Diamond - GF:3|) AND ((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "(|Red Diamond - GF:3|) AND |Ground Pound|"
   },
   {
     "name": "GF - GS Near Waterfall",
@@ -142,7 +142,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": []
   },
   {
     "name": "GF - GS On Tree Stump",
@@ -151,7 +151,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": []
   },
   {
     "name": "GF - GS Drop Block Trapdoor",
@@ -161,7 +161,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR (|Punch| AND |Piledriver|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - GS C-Stick Trapdoor",
@@ -171,7 +171,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR (|Punch| AND |Piledriver|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - GS Stone Blocks Trapdoor",
@@ -181,7 +181,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR (|Punch| AND |Piledriver|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - GS Tree Bridge",
@@ -190,7 +190,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
     "region": "Greenhorn Forest",
@@ -199,7 +199,7 @@
       "Gold Statue",
       "Greenhorn Forest"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - GS Spike Platform Trapdoor",
@@ -209,7 +209,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Drop Block Trapdoor",
@@ -219,7 +219,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD C-Stick Trapdoor",
@@ -229,7 +229,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Stone Blocks Trapdoor",
@@ -239,7 +239,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Stone Block Pillars Trapdoor",
@@ -249,7 +249,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Glue Globe Trapdoor",
@@ -259,7 +259,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Stair Lever Trapdoor",
@@ -269,7 +269,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD \"L\"ever Trapdoor",
@@ -279,7 +279,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "GF - RD Spike Platform Trapdoor",
@@ -288,7 +288,7 @@
       "Greenhorn Forest",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|",
+    "requires": "|Ground Pound|",
     "region": "Greenhorn Forest"
   },
   {
@@ -317,7 +317,7 @@
       "Spritelings",
       "Greenhorn Ruins"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Spriteling Near Battle Ring",
@@ -326,7 +326,7 @@
       "Spritelings",
       "Greenhorn Ruins"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Spriteling Near End of Stage",
@@ -335,7 +335,7 @@
       "Spritelings",
       "Greenhorn Ruins"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Pink Treasure",
@@ -344,7 +344,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Red Treasure",
@@ -353,7 +353,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "((|Punch| OR |Ground Pound|) OR (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
     "name": "GR - Yellow Treasure",
@@ -362,7 +362,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "((|Punch| OR |Ground Pound|) OR (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
     "name": "GR - Chartreuse Treasure",
@@ -371,7 +371,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Green Treasure",
@@ -380,7 +380,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Light Blue Treasure",
@@ -389,7 +389,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Dark Blue Treasure",
@@ -398,7 +398,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Purple Treasure",
@@ -407,7 +407,7 @@
       "Treasures",
       "Greenhorn Ruins"
     ],
-    "requires": "((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
+    "requires": "|Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - Sandworm",
@@ -416,7 +416,7 @@
       "Boss",
       "Greenhorn Ruins"
     ],
-    "requires": "(|Red Diamond - GR:3|) AND (|Punch| OR |Ground Pound|)"
+    "requires": "(|Red Diamond - GR:3|) AND |Wild Swing-Ding| AND (|Punch| OR |Ground Pound|)"
   },
   {
     "name": "GR - GS First Steel Trapdoor",
@@ -426,7 +426,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Punch| AND |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Above the Glue Globes",
@@ -435,7 +435,7 @@
       "Gold Statue",
       "Greenhorn Ruins"
     ],
-    "requires": []
+    "requires": "|Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Across the Glue Globes",
@@ -444,7 +444,7 @@
       "Gold Statue",
       "Greenhorn Ruins"
     ],
-    "requires": []
+    "requires": "|Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Arrow Block Puzzle Trapdoor",
@@ -454,7 +454,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Rotating Gears Trapdoor",
@@ -464,7 +464,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Punch| AND |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Watch for Moving Blocks Trapdoor",
@@ -474,7 +474,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "region": "Greenhorn Ruins",
@@ -484,7 +484,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - GS Block Wave Trapdoor",
@@ -494,7 +494,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD First Steel Trapdoor",
@@ -504,7 +504,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Ring of Spikes Trapdoor",
@@ -514,7 +514,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Climb the Tower Trapdoor",
@@ -524,7 +524,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Arrow Block Puzzle Trapdoor",
@@ -534,7 +534,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Rotating Gears Trapdoor",
@@ -544,7 +544,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Watch for Moving Blocks Trapdoor",
@@ -554,7 +554,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Under Wario's Head Trapdoor",
@@ -564,7 +564,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound| AND |Wild Swing-Ding|"
   },
   {
     "name": "GR - RD Block Wave Trapdoor",
@@ -573,7 +573,7 @@
       "Greenhorn Ruins",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|",
+    "requires": "|Punch| AND |Piledriver| AND |Wild Swing-Ding|",
     "region": "Greenhorn Ruins"
   },
   {
@@ -583,7 +583,7 @@
       "Battle Ring",
       "Greenhorn Ruins"
     ],
-    "requires": []
+    "requires": "|Wild Swing-Ding|"
   },
   {
     "victory": false,
@@ -1146,7 +1146,7 @@
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver| AND |Corkscrew Conk|"
+    "requires": "|Ground Pound| AND |Corkscrew Conk|"
   },
   {
     "name": "WC - RD Marshmallow Gauntlet Trapdoor",

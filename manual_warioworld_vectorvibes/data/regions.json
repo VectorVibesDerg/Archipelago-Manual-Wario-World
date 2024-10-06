@@ -77,7 +77,7 @@
     "connects_to": [
       "Big Treasure Chest"
     ],
-    "requires": "|Red Diamond - PS:6| AND |Captain Skull|"
+    "requires": "|Red Diamond - PS:6| AND |Captain Skull Key|"
   },
   "Big Treasure Chest": {
     "connects_to": [],
