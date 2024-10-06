@@ -1086,7 +1086,7 @@
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "WC - RD Glue Globe Vaulting Trapdoor",
@@ -1096,7 +1096,7 @@
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "WC - RD Y-Axis Rotation Trapdoor",
@@ -1116,7 +1116,7 @@
       "Wonky Circus",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
     "name": "WC - RD Glue Globes can Spin Trapdoor",
@@ -1184,10 +1184,10 @@
       "Spritelings",
       "Shivering Mountains"
     ],
-    "requires": "(|Punch| OR |Ground Pound|)"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - Spriteling Large Rotating Platforms",
+    "name": "SM - Spriteling Large Rotating Platforms Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Spritelings",
@@ -1211,7 +1211,7 @@
       "Spritelings",
       "Shivering Mountains"
     ],
-    "requires": "(|Punch| OR |Ground Pound|) AND |Piledriver|"
+    "requires": "|Punch| AND |Piledriver|"
   },
   {
     "name": "SM - Pink Treasure",
@@ -1325,7 +1325,16 @@
     "requires": []
   },
   {
-    "name": "SM - GS LOCATE IN GAME FOR NAME",
+    "name": "SM - GS Memory Blocks Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Ground Pound|"
+  },
+  {
+    "name": "SM - GS Over The Bridge",
     "region": "Shivering Mountains",
     "category": [
       "Gold Statue",
@@ -1334,7 +1343,25 @@
     "requires": []
   },
   {
-    "name": "SM - GS Rotating Gears Trapdoor",
+    "name": "SM - GS Various Moving Platforms Trapdoor",
+    "region": "Shivering Mountains",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Punch| AND |Piledriver|"
+  },
+  {
+    "region": "Shivering Mountains",
+    "name": "SM - GS Spinning Glue and Spikes Trapdoor",
+    "category": [
+      "Gold Statue",
+      "Shivering Mountains"
+    ],
+    "requires": "|Ground Pound|"
+  },
+  {
+    "name": "SM - GS On the Slide 2",
     "region": "Shivering Mountains",
     "category": [
       "Gold Statue",
@@ -1343,110 +1370,83 @@
     "requires": []
   },
   {
-    "name": "SM - GS Watch for Moving Blocks Trapdoor",
-    "region": "Shivering Mountains",
-    "category": [
-      "Gold Statue",
-      "Shivering Mountains"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Shivering Mountains",
-    "name": "SM - GS Under Wario's Head Trapdoor",
-    "category": [
-      "Gold Statue",
-      "Shivering Mountains"
-    ],
-    "requires": []
-  },
-  {
-    "name": "SM - GS Block Wave Trapdoor",
-    "region": "Shivering Mountains",
-    "category": [
-      "Gold Statue",
-      "Shivering Mountains"
-    ],
-    "requires": []
-  },
-  {
-    "name": "SM - RD First Steel Trapdoor",
+    "name": "SM - RD Punch Between the Spikes Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - RD Ring of Spikes Trapdoor",
+    "name": "SM - RD Marshmallow Edging Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - RD Climb the Tower Trapdoor",
+    "name": "SM - RD Switch Which? Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - RD Arrow Block Puzzle Trapdoor",
+    "name": "SM - RD Large Rotating Platforms Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Corkscrew Conk| AND |Piledriver|"
   },
   {
-    "name": "SM - RD Rotating Gears Trapdoor",
+    "name": "SM - RD Memory Blocks Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - RD Watch for Moving Blocks Trapdoor",
+    "name": "SM - RD Various Moving Platforms Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Punch| AND |Piledriver|"
   },
   {
-    "name": "SM - RD Under Wario's Head Trapdoor",
+    "name": "SM - RD Spinning Glue and Spikes Trapdoor",
     "region": "Shivering Mountains",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|"
+    "requires": "|Ground Pound|"
   },
   {
-    "name": "SM - RD Block Wave Trapdoor",
+    "name": "SM - RD Sphere of Spikes Trapdoor",
     "category": [
       "Red Diamond",
       "Shivering Mountains",
       "Trapdoor"
     ],
-    "requires": "|Ground Pound| OR |Piledriver|",
+    "requires": "|Punch| AND |Piledriver|",
     "region": "Shivering Mountains"
   },
   {
