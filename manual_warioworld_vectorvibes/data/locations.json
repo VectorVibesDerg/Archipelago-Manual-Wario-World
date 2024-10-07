@@ -1767,7 +1767,7 @@
   {
     "victory": false,
     "region": "Mirror Mansion",
-    "name": "MM - Spriteling on the Left Pedestal",
+    "name": "MM - Spriteling Leftmost Stone Block",
     "category": [
       "Spritelings",
       "Mirror Mansion"
@@ -1775,7 +1775,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "MM - Spriteling on the Right Pedestal",
+    "name": "MM - Spriteling Halfway Across the Spike Pit",
     "region": "Mirror Mansion",
     "category": [
       "Spritelings",
@@ -1784,7 +1784,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "MM - Spriteling Near Glue Globes",
+    "name": "MM - Spriteling Next to the Light Blue Button",
     "region": "Mirror Mansion",
     "category": [
       "Spritelings",
@@ -1793,7 +1793,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "MM - Spriteling Near Battle Ring",
+    "name": "MM - Spriteling Corkscrew the Switches Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Spritelings",
@@ -1802,7 +1802,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "MM - Spriteling Near End of Stage",
+    "name": "MM - Spriteling Rings of Fi-Spikes Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Spritelings",
@@ -1892,7 +1892,7 @@
     "requires": "(|Red Diamond - MM:6|) AND ((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
-    "name": "MM - GS First Steel Trapdoor",
+    "name": "MM - GS Big Memory Blocks Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1901,7 +1901,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Above the Glue Globes",
+    "name": "MM - GS Spinning Rings Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1910,7 +1910,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Across the Glue Globes",
+    "name": "MM - GS Platforming Gauntlet Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1919,7 +1919,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Arrow Block Puzzle Trapdoor",
+    "name": "MM - GS CorkScrew Conk Jump Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1928,7 +1928,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Rotating Gears Trapdoor",
+    "name": "MM - GS Spinning Drop Blocks Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1937,7 +1937,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Watch for Moving Blocks Trapdoor",
+    "name": "MM - GS Against the Mesh Path",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1947,7 +1947,7 @@
   },
   {
     "region": "Mirror Mansion",
-    "name": "MM - GS Under Wario's Head Trapdoor",
+    "name": "MM - GS On the Mirror Pillar",
     "category": [
       "Gold Statue",
       "Mirror Mansion"
@@ -1955,7 +1955,7 @@
     "requires": []
   },
   {
-    "name": "MM - GS Block Wave Trapdoor",
+    "name": "MM - GS Fling the Wario Redux Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Gold Statue",
@@ -1984,7 +1984,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Platforming Trapdoor",
+    "name": "MM - RD Platforming Gauntlet Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -2034,7 +2034,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Ring of Fi-Spikes Trapdoor",
+    "name": "MM - RD Rings of Fi-Spikes Trapdoor",
     "category": [
       "Red Diamond",
       "Mirror Mansion",
@@ -2055,7 +2055,7 @@
   {
     "victory": false,
     "region": "Pecan Sands",
-    "name": "PS - Spriteling on the Left Pedestal",
+    "name": "PS - Spriteling Rising Pyramid Trapdoor",
     "category": [
       "Spritelings",
       "Pecan Sands"
@@ -2063,7 +2063,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "PS - Spriteling on the Right Pedestal",
+    "name": "PS - Arrow Block Going Up Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Spritelings",
@@ -2072,7 +2072,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "PS - Spriteling Near Glue Globes",
+    "name": "PS - Spriteling Arrow Block Bounce Back Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Spritelings",
@@ -2081,7 +2081,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "PS - Spriteling Near Battle Ring",
+    "name": "PS - Spriteling Pillar Above Battle Ring",
     "region": "Pecan Sands",
     "category": [
       "Spritelings",
@@ -2090,7 +2090,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "PS - Spriteling Near End of Stage",
+    "name": "PS - Spriteling The Great Maze Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Spritelings",
@@ -2180,7 +2180,7 @@
     "requires": "(|Red Diamond - MM:6|) AND ((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
-    "name": "PS - GS First Steel Trapdoor",
+    "name": "PS - GS Arrow Block Going Across Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2189,7 +2189,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Above the Glue Globes",
+    "name": "PS - GS On the Pillar in front of Wind Grate",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2198,7 +2198,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Across the Glue Globes",
+    "name": "PS - GS Sandbird Flashbacks Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2207,7 +2207,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Arrow Block Puzzle Trapdoor",
+    "name": "PS - GS On the Sand Slide",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2216,7 +2216,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Rotating Gears Trapdoor",
+    "name": "PS - GS Marshmallow Gauntlet Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2225,7 +2225,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Watch for Moving Blocks Trapdoor",
+    "name": "PS - GS Corkscrew the Marshmallow Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2235,7 +2235,7 @@
   },
   {
     "region": "Pecan Sands",
-    "name": "PS - GS Under Wario's Head Trapdoor",
+    "name": "PS - GS Hidden in the Alcove",
     "category": [
       "Gold Statue",
       "Pecan Sands"
@@ -2243,7 +2243,7 @@
     "requires": []
   },
   {
-    "name": "PS - GS Block Wave Trapdoor",
+    "name": "PS - GS Glue Globe Sandfall",
     "region": "Pecan Sands",
     "category": [
       "Gold Statue",
@@ -2282,7 +2282,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Arrow Block Going Down Trapdoor",
+    "name": "PS - RD Arrow Block Bounce Back Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
