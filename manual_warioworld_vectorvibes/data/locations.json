@@ -6,7 +6,7 @@
     "category": [
       "Ending"
     ],
-    "requires": "|Top Left Big Treasure Chest Key| AND |Top Right Big Treasure Chest Key| AND |Bottom Left Big Treasure Chest Key| AND |Bottom Right Big Treasure Chest Key| "
+    "requires": "|Top Left Big Treasure Chest Key| AND |Top Right Big Treasure Chest Key| AND |Bottom Left Big Treasure Chest Key| AND |Bottom Right Big Treasure Chest Key| AND |Captain Skull Defeat|"
   },
   {
     "victory": false,
@@ -1619,7 +1619,7 @@
       "Gold Statue",
       "Beanstalk Way"
     ],
-    "requires": "||Wild Swing-Ding||"
+    "requires": "|Wild Swing-Ding|"
   },
   {
     "name": "BW - GS Leap of Faith Trapdoor",

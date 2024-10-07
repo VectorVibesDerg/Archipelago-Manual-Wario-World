@@ -16,7 +16,7 @@
     "connects_to": [
       "Wonky Circus"
     ],
-    "requires": "|DinoMighty Key|"
+    "requires": "|DinoMighty Key| AND |DinoMighty Defeat|"
   },
   "Wonky Circus": {
     "connects_to": [
@@ -28,7 +28,7 @@
     "connects_to": [
       "Beanstalk Way"
     ],
-    "requires": "|Dual Dragon Key|"
+    "requires": "|Dual Dragon Key| AND |Dual Dragon Defeat|"
   },
   "Beanstalk Way": {
     "connects_to": [
@@ -40,11 +40,11 @@
     "connects_to": [
       "Pecan Sands"
     ],
-    "requires": "|Red-Brief J Key|"
+    "requires": "|Red-Brief J Key| AND |Red-Brief J Defeat|"
   },
   "Pecan Sands": {
     "connects_to": [
-      "Red-Brief J's Showdown"
+      "Captain Skull's Showdown"
     ],
     "requires": "|Red Diamond - MM:6|"
   },

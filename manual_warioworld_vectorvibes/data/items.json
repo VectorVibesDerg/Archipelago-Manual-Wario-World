@@ -790,5 +790,29 @@
       "Boss Access"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DinoMighty Defeat",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dual Dragon Defeat",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Red-Brief J Defeat",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Skull Defeat",
+    "category": [],
+    "progression_skip_balancing": true
   }
 ]
