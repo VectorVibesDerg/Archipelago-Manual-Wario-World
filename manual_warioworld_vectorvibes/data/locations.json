@@ -1459,9 +1459,18 @@
     "requires": []
   },
   {
+    "name": "SM - Battle Ring 2",
+    "region": "Shivering Mountains",
+    "category": [
+      "Battle Ring",
+      "Shivering Mountains"
+    ],
+    "requires": []
+  },
+  {
     "victory": false,
     "region": "Beanstalk Way",
-    "name": "BW - Spriteling on the Left Pedestal",
+    "name": "BW - Spriteling On the Flower",
     "category": [
       "Spritelings",
       "Beanstalk Way"
@@ -1469,7 +1478,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "BW - Spriteling on the Right Pedestal",
+    "name": "BW - Spriteling Break a Bit of Blocks Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Spritelings",
@@ -1478,7 +1487,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "BW - Spriteling Near Glue Globes",
+    "name": "BW - Spriteling In Wario Sunshine Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Spritelings",
@@ -1487,7 +1496,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "BW - Spriteling Near Battle Ring",
+    "name": "BW - Spriteling Switches in the Sky Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Spritelings",
@@ -1496,7 +1505,7 @@
     "requires": "(|Punch| OR |Ground Pound|)"
   },
   {
-    "name": "BW - Spriteling Near End of Stage",
+    "name": "BW - Spriteling Block Momentum Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Spritelings",
@@ -1586,7 +1595,7 @@
     "requires": "(|Red Diamond - SM:5|) AND ((|Punch| OR |Ground Pound|) AND (|Mega Toss| OR |Piledriver| OR |Wild Swing-Ding|))"
   },
   {
-    "name": "BW - GS First Steel Trapdoor",
+    "name": "BW - GS Glue Globe Adjust Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1595,7 +1604,7 @@
     "requires": []
   },
   {
-    "name": "BW - GS Above the Glue Globes",
+    "name": "BW - GS Bomb Puzzle Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1604,7 +1613,16 @@
     "requires": []
   },
   {
-    "name": "BW - GS Across the Glue Globes",
+    "name": "BW - GS Ontop the Lonely Swirly Slab",
+    "region": "Beanstalk Way",
+    "category": [
+      "Gold Statue",
+      "Beanstalk Way"
+    ],
+    "requires": "||Wild Swing-Ding||"
+  },
+  {
+    "name": "BW - GS Leap of Faith Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1613,7 +1631,7 @@
     "requires": []
   },
   {
-    "name": "BW - GS Arrow Block Puzzle Trapdoor",
+    "name": "BW - GS Below the Stone Block",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1622,16 +1640,7 @@
     "requires": []
   },
   {
-    "name": "BW - GS Rotating Gears Trapdoor",
-    "region": "Beanstalk Way",
-    "category": [
-      "Gold Statue",
-      "Beanstalk Way"
-    ],
-    "requires": []
-  },
-  {
-    "name": "BW - GS Watch for Moving Blocks Trapdoor",
+    "name": "BW - GS in the Vine Pit",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1641,7 +1650,7 @@
   },
   {
     "region": "Beanstalk Way",
-    "name": "BW - GS Under Wario's Head Trapdoor",
+    "name": "BW - GS Open Right Side Cliffs",
     "category": [
       "Gold Statue",
       "Beanstalk Way"
@@ -1649,7 +1658,7 @@
     "requires": []
   },
   {
-    "name": "BW - GS Block Wave Trapdoor",
+    "name": "BW - GS Block Tantrum Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Gold Statue",
@@ -1658,7 +1667,7 @@
     "requires": []
   },
   {
-    "name": "BW - RD First Steel Trapdoor",
+    "name": "BW - RD Break a Bit of Blocks Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1668,7 +1677,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Ring of Spikes Trapdoor",
+    "name": "BW - RD Glue Globe Adjust Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1678,7 +1687,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Climb the Tower Trapdoor",
+    "name": "BW - RD Bomb Puzzle Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1688,7 +1697,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Arrow Block Puzzle Trapdoor",
+    "name": "BW - RD Leap of Faith Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1698,7 +1707,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Rotating Gears Trapdoor",
+    "name": "BW - RD Switches in the Sky Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1708,7 +1717,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Watch for Moving Blocks Trapdoor",
+    "name": "BW - RD Wario Sunshine Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1718,7 +1727,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Under Wario's Head Trapdoor",
+    "name": "BW - RD Block Momentum Trapdoor",
     "region": "Beanstalk Way",
     "category": [
       "Red Diamond",
@@ -1728,7 +1737,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "BW - RD Block Wave Trapdoor",
+    "name": "BW - RD Block Tantrum Trapdoor",
     "category": [
       "Red Diamond",
       "Beanstalk Way",
@@ -1738,7 +1747,16 @@
     "region": "Beanstalk Way"
   },
   {
-    "name": "BW - Battle Ring",
+    "name": "BW - Battle Ring 1",
+    "region": "Beanstalk Way",
+    "category": [
+      "Battle Ring",
+      "Beanstalk Way"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BW - Battle Ring 2",
     "region": "Beanstalk Way",
     "category": [
       "Battle Ring",
@@ -1946,7 +1964,7 @@
     "requires": []
   },
   {
-    "name": "MM - RD First Steel Trapdoor",
+    "name": "MM - RD Big Memory Blocks Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -1956,7 +1974,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Ring of Spikes Trapdoor",
+    "name": "MM - RD Spinning Rings Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -1966,7 +1984,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Climb the Tower Trapdoor",
+    "name": "MM - RD Platforming Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -1976,7 +1994,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Arrow Block Puzzle Trapdoor",
+    "name": "MM - RD CorkScrew Conk Jump Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -1986,7 +2004,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Rotating Gears Trapdoor",
+    "name": "MM - RD Spinning Drop Blocks Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -1996,7 +2014,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Watch for Moving Blocks Trapdoor",
+    "name": "MM - RD Corkscrew the Switches Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -2006,7 +2024,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Under Wario's Head Trapdoor",
+    "name": "MM - RD Fling the Wario Redux Trapdoor",
     "region": "Mirror Mansion",
     "category": [
       "Red Diamond",
@@ -2016,7 +2034,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "MM - RD Block Wave Trapdoor",
+    "name": "MM - RD Ring of Fi-Spikes Trapdoor",
     "category": [
       "Red Diamond",
       "Mirror Mansion",
@@ -2234,7 +2252,7 @@
     "requires": []
   },
   {
-    "name": "PS - RD First Steel Trapdoor",
+    "name": "PS - RD Rising Pyramid Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2244,7 +2262,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Ring of Spikes Trapdoor",
+    "name": "PS - RD Arrow Block Going Up Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2254,7 +2272,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Climb the Tower Trapdoor",
+    "name": "PS - RD Arrow Block Going Across Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2264,7 +2282,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Arrow Block Puzzle Trapdoor",
+    "name": "PS - RD Arrow Block Going Down Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2274,7 +2292,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Rotating Gears Trapdoor",
+    "name": "PS - RD Sandbird Flashbacks Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2284,7 +2302,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Watch for Moving Blocks Trapdoor",
+    "name": "PS - RD Marshmallow Gauntlet Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2294,7 +2312,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Under Wario's Head Trapdoor",
+    "name": "PS - RD Corkscrew the Marshmallow Trapdoor",
     "region": "Pecan Sands",
     "category": [
       "Red Diamond",
@@ -2304,7 +2322,7 @@
     "requires": "|Ground Pound| OR |Piledriver|"
   },
   {
-    "name": "PS - RD Block Wave Trapdoor",
+    "name": "PS - RD The Great Maze Trapdoor",
     "category": [
       "Red Diamond",
       "Pecan Sands",
@@ -2353,14 +2371,5 @@
       "Area Boss"
     ],
     "requires": "((|Punch| OR |Ground Pound|) AND |Mega Toss| AND (|Piledriver| OR |Wild Swing-Ding|)"
-  },
-  {
-    "name": "SM - Battle Ring 2",
-    "region": "Shivering Mountains",
-    "category": [
-      "Battle Ring",
-      "Shivering Mountains"
-    ],
-    "requires": []
   }
 ]
